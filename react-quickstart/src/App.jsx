@@ -1,20 +1,23 @@
 import './App.css';
-
+import { useState } from 'react';
 
 
 
 function App() {
+  const [count, setCount] = useState(0);
+
   function handleClick() {
-    alert('You clicked me!');
+    setCount(count + 1);
   }
+
 
   return (
     <>
-      <h1>Welcome to my app</h1>
+      <h1>Welcome to my app</h1>  
       <button onClick={handleClick}>
-      Click me
+      Clicked {count} times
     </button>
-      
+
     </>
   );
 }
