@@ -1,0 +1,80 @@
+﻿Malapit, Ma.Hermosa C.
+BSIS-3
+
+
+These are the five emerging technologies that are impacting both the education sector and the IT industry.
+
+
+
+
+1. Artificial Intelligence (AI)
+ 
+Purpose:
+This emerging technology, personalized learning experiences, can automate tasks that will increase efficiency and can analyze vast amounts of data to identify patterns and trends, informing decision-making in both the educational and IT industry.
+  
+
+
+Usage:
+AI has usages for Fraud Detection: AI algorithms analyze transaction data to identify suspicious activity, preventing financial losses and improving security, also it has Customer Service Chatbots: AI-powered chatbots provide instant support to customers, answering questions and resolving issues efficiently. 
+ 
+Examples:
+- Google Assistant 
+An AI-powered virtual assistant that can answer questions anytime, set reminders, and control smart home devices which make us feel convenient.
+ 
+2. Virtual Reality (VR) and Augmented Reality (AR)
+
+
+Purpose:
+The primary goal of this emerging technology is to have immersive and engaging learning experiences, enhance skill development, and facilitate remote collaboration for both educational and IT industry.
+
+
+Usage: 
+This has a usage for educational purposes, one of it is an interactive simulations: VR and AR provide hands-on experiences in fields like science, engineering, and medicine, allowing students to conduct experiments, manipulate objects, and solve problems in a safe and controlled environment while in IT industry it has a  Product Design and Prototyping: VR and AR allow designers to visualize and interact with 3D models, facilitating collaboration and improving the design process.  
+
+
+Example:
+- Google Expeditions
+ A VR app that takes students on virtual field trips to historical sites, natural wonders, and other locations around the world. 
+ 
+3. Blockchain Technology
+ 
+Purpose: 
+Blockchain aims to create a secure, transparent, and immutable record of transactions and data, enhancing trust and accountability.
+ 
+Usage:
+blockchain can securely store and manage student data, providing greater control and transparency over information sharing between institutions, same with the IT industry. 
+ 
+ 
+Example:
+- IBM Blockchain Platform: A platform that allows organizations to build and manage blockchain networks, enabling secure and transparent data sharing. 
+ 
+4. Cloud Computing
+ 
+Purpose: 
+Cloud computing aims to provide on-demand access to computing resources, such as storage, processing power, and software, over the internet, enhancing accessibility, scalability, and cost-effectiveness.
+ 
+Usage: 
+- In Cloud Computing we have Collaborative Tools. where we used Cloud-based tools like Google Workspace and Microsoft 365 to facilitate real-time collaboration on projects, document editing, and resource sharing that we can apply both in the IT industry and education.
+ 
+ 
+Example:
+- Google Classroom 
+A cloud-based platform that facilitates communication, assignment submission, and collaboration between teachers and students. 
+ 
+5. Internet of Things (IoT)
+ 
+Purpose: 
+IoT or Internet of Things has the primary goal to connect everyday objects to the internet, enabling data collection, automation, and remote control, creating a more interconnected and intelligent world.
+ 
+
+
+Usage:
+IoT can be used as Healthcare Monitoring, wearable health devices and connected medical equipment collect patient data, enabling remote monitoring, personalized care, and improved health outcomes. 
+ 
+Examples:
+ 
+- Amazon Echo
+ A smart speaker that uses IoT technology to control smart home devices, answer questions, and provide entertainment. 
+ 
+-Fitbit
+It is a wearable fitness tracker that uses IoT technology to monitor activity levels, sleep patterns, and heart rate, providing personalized insights and motivation
